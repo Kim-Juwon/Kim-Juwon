@@ -3,7 +3,7 @@
 #### Profile
 - 대전고등학교 졸업
 - [한국기술교육대학교-KOREATECH](https://www.koreatech.ac.kr/kor/Main.do) 컴퓨터공학부 (군 휴학. 2023년 3학년 복학 예정)
-- [BCSDLab](https://github.com/orgs/BCSDLab/teams) BackEnd 팀원으로 활동중
+- [BCSDLab](https://bcsdlab.com) BackEnd 팀원으로 활동중
 
 #### Objective
 - 사용자들에게 편리함을 제공하며, 안정적인 서비스를 개발하는 서버 개발자가 되고 싶은 대학생입니다.
