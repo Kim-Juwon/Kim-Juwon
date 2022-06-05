@@ -1,5 +1,3 @@
-### 반갑습니다. 김주원입니다.
-
 #### Profile
 - 대전고등학교 졸업
 - [한국기술교육대학교-KOREATECH](https://www.koreatech.ac.kr/kor/Main.do) 컴퓨터공학부 (군 휴학. 2023년 3학년 복학 예정)
